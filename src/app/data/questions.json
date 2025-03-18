@@ -1,0 +1,75 @@
+  {
+    "title": "Qual Pokémon inicial você seria?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual elemento mais combina com você?",
+        "options": [
+          {"id": 1, "name": "Fogo", "alias": "Charmander"},
+          {"id": 2, "name": "Água", "alias": "Squirtle"},
+          {"id": 3, "name": "Planta", "alias": "Bulbasaur"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Como você enfrentaria um desafio?",
+        "options": [
+          {"id": 1, "name": "Com força e determinação!", "alias": "Charmander"},
+          {"id": 2, "name": "Pensando em uma estratégia", "alias": "Squirtle"},
+          {"id": 3, "name": "Com paciência e persistência", "alias": "Bulbasaur"},
+          {"id": 4, "name": "Com velocidade e precisão", "alias": "Charmander"},
+          {"id": 5, "name": "Com inteligência e astúcia", "alias": "Squirtle"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "O que você mais gosta de fazer no seu tempo livre?",
+        "options": [
+          {"id": 1, "name": "Explorar e se aventurar", "alias": "Charmander"},
+          {"id": 2, "name": "Nadar e relaxar", "alias": "Squirtle"},
+          {"id": 3, "name": "Cuidar da natureza", "alias": "Bulbasaur"},
+          {"id": 4, "name": "Treinar e melhorar minhas habilidades", "alias": "Charmander"},
+          {"id": 5, "name": "Resolver desafios e quebra-cabeças", "alias": "Squirtle"},
+          {"id": 6, "name": "Ajudar amigos e familiares", "alias": "Bulbasaur"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual é o seu maior ponto forte?",
+        "options": [
+          {"id": 1, "name": "Coragem", "alias": "Charmander"},
+          {"id": 2, "name": "Inteligência", "alias": "Squirtle"},
+          {"id": 3, "name": "Lealdade", "alias": "Bulbasaur"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Se você fosse escolher um ambiente para viver, qual seria?",
+        "options": [
+          {"id": 1, "name": "Um vulcão quente e ativo", "alias": "Charmander"},
+          {"id": 2, "name": "Um oceano calmo e profundo", "alias": "Squirtle"},
+          {"id": 3, "name": "Uma floresta cheia de vida", "alias": "Bulbasaur"},
+          {"id": 4, "name": "Uma caverna misteriosa", "alias": "Charmander"}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Se você pudesse ter um ataque especial, qual seria?",
+        "options": [
+          {"id": 1, "name": "Lançar chamas", "alias": "Charmander"},
+          {"id": 2, "name": "Jato d'água", "alias": "Squirtle"},
+          {"id": 3, "name": "Raízes que prendem o inimigo", "alias": "Bulbasaur"}
+        ]
+      }
+    ],
+    "results": {
+    "Charmander": "Você é um Charmander! Destemido e cheio de energia, você enfrenta qualquer desafio de frente!",
+    "Squirtle": "Você é um Squirtle! Inteligente e tranquilo, você sempre pensa antes de agir!",
+    "Bulbasaur": "Você é um Bulbasaur! Não gostam muito de você. Sinto muito."
+  },
+  "images":{
+    "Charmander": "https://assets.pokemon-zone.com/game-assets/CardNew/Face/cPK_20_000330_00_HITOKAGE_AR/L/Prefabs/cPK_20_000330_00_HITOKAGE_AR_L_ILL.webp",
+    "Squirtle": "https://assets.pokemon-zone.com/game-assets/CardNew/Face/cPK_20_000530_00_ZENIGAME_AR/L/Prefabs/cPK_20_000530_00_ZENIGAME_AR_L_ILL.webp",
+    "Bulbasaur": "https://assets.pokemon-zone.com/game-assets/CardNew/Face/cPK_20_000010_00_FUSHIGIDANE_AR/L/Prefabs/cPK_20_000010_00_FUSHIGIDANE_AR_L_ILL.webp"
+  }
+}
